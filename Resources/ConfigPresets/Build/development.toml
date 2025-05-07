@@ -2,7 +2,7 @@
 # Straight in-game baby
 lobbyenabled = false
 # Frontier: special map
-map = "NFDev"
+map = "SCDev"
 role_timers = false
 
 [events]

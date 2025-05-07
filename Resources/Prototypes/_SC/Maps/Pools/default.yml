@@ -1,0 +1,9 @@
+- type: gameMapPool
+  id: SCMapPool
+  maps:
+  - SnowColony
+  - ContinentalColony
+  - LowDesertColony
+  - GrasslandsColony
+  - LavaColony
+  - ShadowColony
